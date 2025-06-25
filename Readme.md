@@ -36,8 +36,8 @@ Bienvenido a **Chat with MySQL**, un chatbot interactivo basado en Streamlit que
 ### 1. Clonar el proyecto
 
 ```sh
-git clone https://github.com/LeoR22/ai_chatbot_mysql.git
-cd ai_chatbot_mysql
+git clone thttps://github.com/LeoR22/mysql_llama3.2.git
+cd mysql_llama3.2
 ```
 
 ### 2. Crear y activar entorno virtual
